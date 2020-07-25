@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi! I'm Mohamed Schuster 👋
 
-<!--
-**mohamedstt/mohamedstt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer Frontend | Focused on ReactJS 🏡 Santarém 🌎 Portugal
 
-Here are some ideas to get you started:
+### Find me here 🌎💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-schuster-411995129/)](https://www.linkedin.com/in/mohamed-schuster-411995129/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: mohamedschdev@gmail.com)](mailto: mohamedschdev@gmail.com)
+
+
+### More details about me
+
+💻 Dev Frontend | Focused on ReactJS<br>
+📚 Graduating in Information Systems<br>
+🎮 Nerd | Geek | Gamer<br>
+
+Thanks for your visit!
+</samp>
