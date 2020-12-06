@@ -11,7 +11,6 @@
 
 💻 Dev Frontend | Focused on ReactJS<br>
 📚 Graduating in Information Systems<br>
-🎮 Nerd | Geek | Gamer<br>
 
 Thanks for your visit!
 </samp>
