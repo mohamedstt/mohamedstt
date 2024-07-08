@@ -10,7 +10,7 @@
 ### More details about me
 
 💻 Dev Frontend | Focused on ReactJS<br>
-📚 Graduating in Information Systems<br>
+📚 Bachelor's Computer Science
 
 Thanks for your visit!
 </samp>
